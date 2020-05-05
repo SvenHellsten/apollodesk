@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/apollodesk/static/css/main.b867a694.chunk.css",
+    "main.js": "/apollodesk/static/js/main.9a04839f.chunk.js",
+    "main.js.map": "/apollodesk/static/js/main.9a04839f.chunk.js.map",
+    "runtime-main.js": "/apollodesk/static/js/runtime-main.181b0f71.js",
+    "runtime-main.js.map": "/apollodesk/static/js/runtime-main.181b0f71.js.map",
+    "static/css/2.1428d583.chunk.css": "/apollodesk/static/css/2.1428d583.chunk.css",
+    "static/js/2.d37d1ad6.chunk.js": "/apollodesk/static/js/2.d37d1ad6.chunk.js",
+    "static/js/2.d37d1ad6.chunk.js.map": "/apollodesk/static/js/2.d37d1ad6.chunk.js.map",
+    "index.html": "/apollodesk/index.html",
+    "precache-manifest.60caf1df5f183aa6a3b9c56b706be276.js": "/apollodesk/precache-manifest.60caf1df5f183aa6a3b9c56b706be276.js",
+    "service-worker.js": "/apollodesk/service-worker.js",
+    "static/css/2.1428d583.chunk.css.map": "/apollodesk/static/css/2.1428d583.chunk.css.map",
+    "static/css/main.b867a694.chunk.css.map": "/apollodesk/static/css/main.b867a694.chunk.css.map",
+    "static/js/2.d37d1ad6.chunk.js.LICENSE.txt": "/apollodesk/static/js/2.d37d1ad6.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/apollodesk/static/media/roboto-latin-900italic.ebf6d164.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.181b0f71.js",
+    "static/css/2.1428d583.chunk.css",
+    "static/js/2.d37d1ad6.chunk.js",
+    "static/css/main.b867a694.chunk.css",
+    "static/js/main.9a04839f.chunk.js"
+  ]
+}
