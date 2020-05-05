@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c190683bcb4467206d57af5f2016f51c",
+    "revision": "31f7adc8fb66f9633171ffd46601c380",
     "url": "/apollodesk/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/apollodesk/static/css/2.1428d583.chunk.css"
   },
   {
-    "revision": "eaf32ef7e8322fc03c55",
+    "revision": "0738a858f6cd251bf89a",
     "url": "/apollodesk/static/css/main.b867a694.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/apollodesk/static/js/2.d37d1ad6.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "eaf32ef7e8322fc03c55",
-    "url": "/apollodesk/static/js/main.9a04839f.chunk.js"
+    "revision": "0738a858f6cd251bf89a",
+    "url": "/apollodesk/static/js/main.8972cf06.chunk.js"
   },
   {
     "revision": "0b37b985063cda4b3828",

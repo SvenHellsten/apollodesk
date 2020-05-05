@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/apollodesk/static/css/main.b867a694.chunk.css",
-    "main.js": "/apollodesk/static/js/main.9a04839f.chunk.js",
-    "main.js.map": "/apollodesk/static/js/main.9a04839f.chunk.js.map",
+    "main.js": "/apollodesk/static/js/main.8972cf06.chunk.js",
+    "main.js.map": "/apollodesk/static/js/main.8972cf06.chunk.js.map",
     "runtime-main.js": "/apollodesk/static/js/runtime-main.181b0f71.js",
     "runtime-main.js.map": "/apollodesk/static/js/runtime-main.181b0f71.js.map",
     "static/css/2.1428d583.chunk.css": "/apollodesk/static/css/2.1428d583.chunk.css",
     "static/js/2.d37d1ad6.chunk.js": "/apollodesk/static/js/2.d37d1ad6.chunk.js",
     "static/js/2.d37d1ad6.chunk.js.map": "/apollodesk/static/js/2.d37d1ad6.chunk.js.map",
     "index.html": "/apollodesk/index.html",
-    "precache-manifest.60caf1df5f183aa6a3b9c56b706be276.js": "/apollodesk/precache-manifest.60caf1df5f183aa6a3b9c56b706be276.js",
+    "precache-manifest.0ca4904c61298750cc46434bb91199ad.js": "/apollodesk/precache-manifest.0ca4904c61298750cc46434bb91199ad.js",
     "service-worker.js": "/apollodesk/service-worker.js",
     "static/css/2.1428d583.chunk.css.map": "/apollodesk/static/css/2.1428d583.chunk.css.map",
     "static/css/main.b867a694.chunk.css.map": "/apollodesk/static/css/main.b867a694.chunk.css.map",
@@ -21,6 +21,6 @@
     "static/css/2.1428d583.chunk.css",
     "static/js/2.d37d1ad6.chunk.js",
     "static/css/main.b867a694.chunk.css",
-    "static/js/main.9a04839f.chunk.js"
+    "static/js/main.8972cf06.chunk.js"
   ]
 }
